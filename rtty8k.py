@@ -1,6 +1,6 @@
 import wave
 import numpy as np
-fname='rtty3s.wav' # should be specify the filename.
+fname='rtty.wav' # should be specify the filename.
 smp= 8000          # Sampling Rate
 FQm= smp/914.0     # Mark Frequency 914Hz
 FQs= smp/1086.0    # Space Frequency 1086Hz
